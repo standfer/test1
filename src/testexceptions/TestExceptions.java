@@ -68,7 +68,7 @@ public class TestExceptions {
         testCollections.QueuePriority();*/
 
         BoardGame boardGame = new BoardGame(11);
-        //test git1
+        //test git2
         //branch2 test2
     }
     

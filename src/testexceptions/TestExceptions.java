@@ -68,6 +68,7 @@ public class TestExceptions {
         testCollections.QueuePriority();*/
 
         BoardGame boardGame = new BoardGame(11);
+        //test git1
     }
     
     public static void replaceValue (String name, Object newValue) throws NoSuchAttributeException{

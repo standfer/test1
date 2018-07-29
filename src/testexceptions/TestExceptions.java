@@ -69,7 +69,7 @@ public class TestExceptions {
 
         BoardGame boardGame = new BoardGame(11);
         //test git1
-        //branch1 test2
+        //branch2 test2
     }
     
     public static void replaceValue (String name, Object newValue) throws NoSuchAttributeException{
